@@ -16,10 +16,14 @@
 
 ![photo_2024-10-29_20-29-36-3](https://github.com/user-attachments/assets/6cb47408-9f62-4a07-90f4-4f8bc2e2a27d)
 
-Сертификат за участие в международном онлайн геймтоне DatsCity от DatsTeam"
+Сертификат за участие в международном онлайн геймтоне DatsCity от DatsTeam
 
 ![b4bbe787-02c1-4fa0-a4fc-5241e5f72070-1](https://github.com/user-attachments/assets/1628d657-7b4a-4a91-9b03-f3f15616bdd4)
 
 Сертификат за участие в хакатоне по созданию AI-продуктов с использованием ассистентов кода от GIGASCHOOL
 
 ![Лецколюк Н -1](https://github.com/user-attachments/assets/a40e4fac-6fb7-46b6-8a1b-3ae04da9193b)
+
+Сертификат за участие в международном онлайн геймтоне DatsPulse от DatsTeam
+
+<img width="3961" height="2796" alt="Сертификат DatsPulse" src="https://github.com/user-attachments/assets/38a3508c-8fbc-440a-8292-c11c29a01a81" />
