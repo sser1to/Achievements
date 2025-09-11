@@ -27,3 +27,7 @@
 Сертификат за участие в международном онлайн геймтоне DatsPulse от DatsTeam
 
 <img width="3961" height="2796" alt="Сертификат DatsPulse" src="https://github.com/user-attachments/assets/38a3508c-8fbc-440a-8292-c11c29a01a81" />
+
+Сертификат за участие в хакатоне ТОП-ИИ от УрФУ (ИРИТ-РТФ)
+
+<img width="3118" height="2203" alt="24-1" src="https://github.com/user-attachments/assets/5aaf7140-8534-484b-83a1-0f230708c0fd" />
