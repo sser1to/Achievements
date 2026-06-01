@@ -35,3 +35,7 @@
 Сертификат за участие в хакатоне ТОП-ИИ от УрФУ (ИРИТ-РТФ)
 
 <img width="3118" height="2203" alt="24-1" src="https://github.com/user-attachments/assets/5aaf7140-8534-484b-83a1-0f230708c0fd" />
+
+Сертификат за участие в соревновании по машинному обучению "Компьютерные науки и анализ данных" от X5 Tech.
+
+<img width="793" height="1123" alt="file-001" src="https://github.com/user-attachments/assets/71f31f4e-c24d-4da1-aaff-8abb8a202497" />
