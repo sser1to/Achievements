@@ -39,3 +39,7 @@
 Сертификат за участие в соревновании по машинному обучению "Компьютерные науки и анализ данных" от X5 Tech.
 
 <img width="793" height="1123" alt="file-001" src="https://github.com/user-attachments/assets/71f31f4e-c24d-4da1-aaff-8abb8a202497" />
+
+Сертификат финалиста в хакатоне НОРНИКЕЛЬ: AI SCIENCE HACK
+
+<img width="1877" height="2653" alt="file-00341" src="https://github.com/user-attachments/assets/e26d6261-f5e2-45ae-b15d-1374f1c28f22" />
