@@ -71,3 +71,9 @@
 <img width="794" height="1123" alt="file-001" src="https://github.com/user-attachments/assets/8cc26075-06cf-4a2d-9582-f396600923fc" />
 
 ---
+
+### Сертификат участника в хакатоне PostCode Challenge от Почтатеха
+
+<img width="1698" height="1200" alt="certificate-Хакатон-PostCode-Challenge-от-Почтатеха" src="https://github.com/user-attachments/assets/6071c7b4-3de8-414a-8c28-fd7b3f4f74df" />
+
+---
