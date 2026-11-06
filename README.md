@@ -77,3 +77,9 @@
 <img width="1698" height="1200" alt="certificate-Хакатон-PostCode-Challenge-от-Почтатеха" src="https://github.com/user-attachments/assets/6071c7b4-3de8-414a-8c28-fd7b3f4f74df" />
 
 ---
+
+### Сертифика участника в хакатоне «Точка сбора» по созданию продуктов на основе искусственного интеллекта
+
+<img width="1123" height="793" alt="file-001" src="https://github.com/user-attachments/assets/ab411496-bd85-4eb9-9a7e-ebf898a3cf75" />
+
+---
